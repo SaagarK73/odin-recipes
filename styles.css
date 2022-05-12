@@ -1,0 +1,11 @@
+h1 {
+    font-size: 36px;
+    color: rgb(88, 86, 86);
+    background-color: rgb(57, 201, 153);
+}
+
+.link {
+    font-size: 24px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
